@@ -1,0 +1,41 @@
+team_name,ground,player_id,jersey,name,starting,position
+Fortuna Düsseldorf,home,DFL-OBJ-00005H,13,A. Bodzek,False,Unknown
+Fortuna Düsseldorf,home,DFL-OBJ-00008K,28,R. Hennings,True,Left Forward
+Fortuna Düsseldorf,home,DFL-OBJ-000170,1,R. Wolf,False,Unknown
+Fortuna Düsseldorf,home,DFL-OBJ-0000NZ,25,Matthias Zimmermann,True,Right Back
+Fortuna Düsseldorf,home,DFL-OBJ-00006V,3,A. Hoffmann,False,Unknown
+Fortuna Düsseldorf,home,DFL-OBJ-0000F8,11,F. Klaus,False,Right Midfield
+Fortuna Düsseldorf,home,DFL-OBJ-J0130T,29,Jorrit Hendrix,True,Left Defensive Midfield
+Fortuna Düsseldorf,home,DFL-OBJ-00028V,31,M. Sobottka,True,Right Defensive Midfield
+Fortuna Düsseldorf,home,DFL-OBJ-002FXT,9,Dawid Kownacki,True,Striker
+Fortuna Düsseldorf,home,DFL-OBJ-0026RH,19,E. Iyoha,True,Left Midfield
+Fortuna Düsseldorf,home,DFL-OBJ-0028FW,33,F. Kastenmeier,True,Goalkeeper
+Fortuna Düsseldorf,home,DFL-OBJ-002G5J,23,Shinta Appelkamp,False,Left Midfield
+Fortuna Düsseldorf,home,DFL-OBJ-J01CVM,44,M. Mansfeld,False,Striker
+Fortuna Düsseldorf,home,DFL-OBJ-002GMO,15,Tim Oberdorf,True,Right Center Back
+Fortuna Düsseldorf,home,DFL-OBJ-002GM1,7,Kristoffer Peterson,True,Right Midfield
+Fortuna Düsseldorf,home,DFL-OBJ-002GM9,5,C. Klarer,True,Left Center Back
+Fortuna Düsseldorf,home,DFL-OBJ-J01KJ5,8,M. Karbownik,True,Left Back
+Fortuna Düsseldorf,home,DFL-OBJ-J01L1F,14,Kwadwo Baah,False,Unknown
+Fortuna Düsseldorf,home,DFL-OBJ-J01NQ8,46,E. Fernandes Neto,False,Right Midfield
+Fortuna Düsseldorf,home,DFL-OBJ-J01OYT,22,B. Böckle,False,Unknown
+1. FC Kaiserslautern,away,DFL-OBJ-0025YM,28,M. Wunderlich,True,Center Attacking Midfield
+1. FC Kaiserslautern,away,DFL-OBJ-00003W,1,A. Luthe,True,Goalkeeper
+1. FC Kaiserslautern,away,DFL-OBJ-0000F9,5,K. Kraus,False,Left Center Back
+1. FC Kaiserslautern,away,DFL-OBJ-00017G,10,P. Klement,False,Center Attacking Midfield
+1. FC Kaiserslautern,away,DFL-OBJ-0028PO,31,B. Zolinski,False,Unknown
+1. FC Kaiserslautern,away,DFL-OBJ-0000YE,13,Terrence Boyd,True,Striker
+1. FC Kaiserslautern,away,DFL-OBJ-00021G,37,E. Durm,True,Right Back
+1. FC Kaiserslautern,away,DFL-OBJ-00265G,11,Kenny Prince Redondo,True,Left Midfield
+1. FC Kaiserslautern,away,DFL-OBJ-0001ZY,8,J. Zimmer,True,Right Midfield
+1. FC Kaiserslautern,away,DFL-OBJ-0002DT,7,Marlon Ritter,True,Right Defensive Midfield
+1. FC Kaiserslautern,away,DFL-OBJ-002G9B,30,A. Spahic,False,Unknown
+1. FC Kaiserslautern,away,DFL-OBJ-00265D,23,Philipp Hercher,False,Unknown
+1. FC Kaiserslautern,away,DFL-OBJ-0026MI,20,Dominik Schad,True,Left Back
+1. FC Kaiserslautern,away,DFL-OBJ-0026WW,32,R. Bormuth,True,Right Center Back
+1. FC Kaiserslautern,away,DFL-OBJ-0028GO,6,H. Çiftçi,True,Left Defensive Midfield
+1. FC Kaiserslautern,away,DFL-OBJ-002GEO,22,L. Bünning,False,Unknown
+1. FC Kaiserslautern,away,DFL-OBJ-002GPN,2,B. Tomiak,True,Left Center Back
+1. FC Kaiserslautern,away,DFL-OBJ-0028G2,25,Aaron Opoku,False,Right Midfield
+1. FC Kaiserslautern,away,DFL-OBJ-002G0F,19,Daniel Hanslik,False,Left Midfield
+1. FC Kaiserslautern,away,DFL-OBJ-002GPI,27,L. Lobinger,False,Striker

@@ -1,0 +1,41 @@
+team_name,ground,player_id,jersey,name,starting,position
+Fortuna Düsseldorf,home,DFL-OBJ-000170,1,R. Wolf,False,Unknown
+Fortuna Düsseldorf,home,DFL-OBJ-0000NZ,25,Matthias Zimmermann,True,Right Back
+Fortuna Düsseldorf,home,DFL-OBJ-0000F8,11,F. Klaus,True,Right Midfield
+Fortuna Düsseldorf,home,DFL-OBJ-J0130T,29,Jorrit Hendrix,False,Left Defensive Midfield
+Fortuna Düsseldorf,home,DFL-OBJ-00028V,31,M. Sobottka,True,Right Defensive Midfield
+Fortuna Düsseldorf,home,DFL-OBJ-002FXT,9,Dawid Kownacki,True,Striker
+Fortuna Düsseldorf,home,DFL-OBJ-0026RH,19,E. Iyoha,False,Striker
+Fortuna Düsseldorf,home,DFL-OBJ-0028FW,33,F. Kastenmeier,True,Goalkeeper
+Fortuna Düsseldorf,home,DFL-OBJ-002G5J,23,Shinta Appelkamp,True,Center Attacking Midfield
+Fortuna Düsseldorf,home,DFL-OBJ-J01D0C,47,N. Vukančić,False,Unknown
+Fortuna Düsseldorf,home,DFL-OBJ-002GMO,15,Tim Oberdorf,True,Right Center Back
+Fortuna Düsseldorf,home,DFL-OBJ-002GM1,7,Kristoffer Peterson,True,Left Midfield
+Fortuna Düsseldorf,home,DFL-OBJ-002GM9,5,C. Klarer,True,Left Center Back
+Fortuna Düsseldorf,home,DFL-OBJ-J01H9X,4,A. Tanaka,True,Left Defensive Midfield
+Fortuna Düsseldorf,home,DFL-OBJ-J01JQC,35,D. Bunk,False,Center Attacking Midfield
+Fortuna Düsseldorf,home,DFL-OBJ-J01KE3,37,D. Savic,False,Unknown
+Fortuna Düsseldorf,home,DFL-OBJ-J01KJ5,8,M. Karbownik,True,Left Back
+Fortuna Düsseldorf,home,DFL-OBJ-J01L1F,14,Kwadwo Baah,False,Right Midfield
+Fortuna Düsseldorf,home,DFL-OBJ-J01NQ8,46,E. Fernandes Neto,False,Left Midfield
+Fortuna Düsseldorf,home,DFL-OBJ-J01PRX,45,T. Geerkens,False,Unknown
+F.C. Hansa Rostock,away,DFL-OBJ-0028JQ,9,R. Munsy,False,Striker
+F.C. Hansa Rostock,away,DFL-OBJ-002FZB,1,M. Kolke,True,Goalkeeper
+F.C. Hansa Rostock,away,DFL-OBJ-0002GW,22,L. Hinterseer,False,Unknown
+F.C. Hansa Rostock,away,DFL-OBJ-0028IJ,39,P. Breier,False,Left Midfield
+F.C. Hansa Rostock,away,DFL-OBJ-00019R,18,J. Verhoek,True,Left Forward
+F.C. Hansa Rostock,away,DFL-OBJ-0001IG,7,N. Neidhart,True,Right Defensive Midfield
+F.C. Hansa Rostock,away,DFL-OBJ-0001CF,25,T. Meißner,False,Right Center Back
+F.C. Hansa Rostock,away,DFL-OBJ-0002IR,4,D. Roßbach,False,Unknown
+F.C. Hansa Rostock,away,DFL-OBJ-002FXA,19,K. Pröger,True,Striker
+F.C. Hansa Rostock,away,DFL-OBJ-J0153J,20,L. Scherff,False,Unknown
+F.C. Hansa Rostock,away,DFL-OBJ-0025BB,34,Lukas Fröde,True,Unknown
+F.C. Hansa Rostock,away,DFL-OBJ-00264V,23,Nils Körber,False,Unknown
+F.C. Hansa Rostock,away,DFL-OBJ-0026ZT,21,Anderson Lucoqui,True,Left Defensive Midfield
+F.C. Hansa Rostock,away,DFL-OBJ-J0196K,6,D. Dressel,True,Unknown
+F.C. Hansa Rostock,away,DFL-OBJ-00286X,5,R. van Drongelen,True,Left Center Back
+F.C. Hansa Rostock,away,DFL-OBJ-0028KZ,27,Frederic Ananou,True,Right Center Back
+F.C. Hansa Rostock,away,DFL-OBJ-002GLL,14,Svante Ingelsson,True,Unknown
+F.C. Hansa Rostock,away,DFL-OBJ-J01GG9,17,D. Lee,False,Unknown
+F.C. Hansa Rostock,away,DFL-OBJ-J01KGY,29,S. Thill,True,Unknown
+F.C. Hansa Rostock,away,DFL-OBJ-J01MF0,15,Nils Fröling,False,Right Midfield

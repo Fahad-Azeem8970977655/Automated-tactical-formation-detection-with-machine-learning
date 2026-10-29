@@ -1,0 +1,41 @@
+team_name,ground,player_id,jersey,name,starting,position
+Fortuna Düsseldorf,home,DFL-OBJ-00005H,13,A. Bodzek,False,Right Defensive Midfield
+Fortuna Düsseldorf,home,DFL-OBJ-00008K,28,R. Hennings,True,Striker
+Fortuna Düsseldorf,home,DFL-OBJ-000170,1,R. Wolf,False,Unknown
+Fortuna Düsseldorf,home,DFL-OBJ-0000NZ,25,Matthias Zimmermann,True,Right Center Back
+Fortuna Düsseldorf,home,DFL-OBJ-00006V,3,A. Hoffmann,False,Left Center Back
+Fortuna Düsseldorf,home,DFL-OBJ-0000F8,11,F. Klaus,False,Unknown
+Fortuna Düsseldorf,home,DFL-OBJ-J0130T,29,Jorrit Hendrix,True,Left Defensive Midfield
+Fortuna Düsseldorf,home,DFL-OBJ-002FXT,9,Dawid Kownacki,True,Left Forward
+Fortuna Düsseldorf,home,DFL-OBJ-0026RH,19,E. Iyoha,True,Unknown
+Fortuna Düsseldorf,home,DFL-OBJ-0028FW,33,F. Kastenmeier,True,Goalkeeper
+Fortuna Düsseldorf,home,DFL-OBJ-002G5J,23,Shinta Appelkamp,True,Center Attacking Midfield
+Fortuna Düsseldorf,home,DFL-OBJ-J01CVM,44,M. Mansfeld,False,Unknown
+Fortuna Düsseldorf,home,DFL-OBJ-002GMO,15,Tim Oberdorf,True,Left Center Back
+Fortuna Düsseldorf,home,DFL-OBJ-002GM1,7,Kristoffer Peterson,True,Unknown
+Fortuna Düsseldorf,home,DFL-OBJ-002GM9,5,C. Klarer,True,Unknown
+Fortuna Düsseldorf,home,DFL-OBJ-J01JQC,35,D. Bunk,False,Unknown
+Fortuna Düsseldorf,home,DFL-OBJ-J01KJ5,8,M. Karbownik,True,Right Defensive Midfield
+Fortuna Düsseldorf,home,DFL-OBJ-J01L1F,14,Kwadwo Baah,False,Left Forward
+Fortuna Düsseldorf,home,DFL-OBJ-J01NQ8,46,E. Fernandes Neto,False,Unknown
+Fortuna Düsseldorf,home,DFL-OBJ-J01OYT,22,B. Böckle,False,Unknown
+FC St. Pauli,away,DFL-OBJ-0000S8,30,S. Burchert,False,Unknown
+FC St. Pauli,away,DFL-OBJ-0027W9,19,Luca Zander,False,Right Back
+FC St. Pauli,away,DFL-OBJ-0002EL,23,L. Paqarada,True,Left Defensive Midfield
+FC St. Pauli,away,DFL-OBJ-J014L2,7,Jackson Irvine,True,Unknown
+FC St. Pauli,away,DFL-OBJ-J0157X,2,M. Saliakas,True,Right Defensive Midfield
+FC St. Pauli,away,DFL-OBJ-0026V5,10,M. Hartel,True,Unknown
+FC St. Pauli,away,DFL-OBJ-0027AY,11,J. Eggestein,False,Left Midfield
+FC St. Pauli,away,DFL-OBJ-0027UQ,21,L. Ritzka,False,Unknown
+FC St. Pauli,away,DFL-OBJ-0027QN,13,Lukas Daschner,True,Striker
+FC St. Pauli,away,DFL-OBJ-0028HW,27,D. Otto,False,Striker
+FC St. Pauli,away,DFL-OBJ-0028LZ,22,N. Vasilj,True,Goalkeeper
+FC St. Pauli,away,DFL-OBJ-002FZR,14,E. Amenyido,True,Left Forward
+FC St. Pauli,away,DFL-OBJ-0028SU,16,Carlo Boukhalfa,False,Unknown
+FC St. Pauli,away,DFL-OBJ-002GND,15,M. Beifus,False,Unknown
+FC St. Pauli,away,DFL-OBJ-002GNL,8,Eric Smith,True,Unknown
+FC St. Pauli,away,DFL-OBJ-002GIY,20,Afeez Aremu,True,Unknown
+FC St. Pauli,away,DFL-OBJ-002GMV,34,I. Matanović,False,Right Midfield
+FC St. Pauli,away,DFL-OBJ-002GN4,25,A. Dźwigała,True,Right Center Back
+FC St. Pauli,away,DFL-OBJ-J01HCH,24,Connor Metcalfe,False,Right Midfield
+FC St. Pauli,away,DFL-OBJ-J01PRP,5,B. Fazliji,True,Left Center Back

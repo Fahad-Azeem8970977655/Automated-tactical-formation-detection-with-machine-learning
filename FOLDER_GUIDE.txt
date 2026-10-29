@@ -1,0 +1,19 @@
+tactical_dashboard/                      <- unzip here, then open a terminal in THIS folder
+|-- app.py                               ENTRY POINT + sidebar menu (names and emoji icons)   run:  python -m streamlit run app.py
+|-- home.py                              the Home page (must sit next to app.py)
+|-- core.py, analytics.py                shared code - do not move
+|-- requirements.txt                     python -m pip install -r requirements.txt
+|-- INSTALL_AND_RUN.bat                  Windows: double-click to install + start
+|-- download_bundesliga.py               only needed to re-download Bundesliga data
+|-- README.md
+|-- pages/                               the 20 dashboard pages (plain ASCII names - do not rename)
+`-- data/                                ALL data lives here (the app looks for "data" next to app.py)
+    |-- Sample_Game_1_*.csv              Metrica game 1 (events + home/away tracking)
+    |-- Sample_Game_2_*.csv              Metrica game 2
+    |-- Sample_Game_3_*                  Metrica game 3 (tracking.txt, metadata.xml, events.json)
+    |-- opendata-master.zip              SkillCorner repo zip (read directly, do not unzip)
+    |-- skillcorner/                     19 A-League matches x 4 files:
+    |     <id>_tracking_extrapolated.jsonl, <id>_match.json, <id>_phases_of_play.csv, <id>_dynamic_events.csv
+    `-- bundesliga/                      6 Bundesliga matches x 2 files:
+          <id>_tracking.csv, <id>_players.csv
+Missing: A-League match 2007721 (add its 4 files to data/skillcorner/) and Bundesliga J03WMX (run download_bundesliga.py).

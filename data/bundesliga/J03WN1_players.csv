@@ -1,0 +1,41 @@
+team_name,ground,player_id,jersey,name,starting,position
+VfL Bochum 1848,home,DFL-OBJ-0001I0,1,Manuel Riemann,True,Goalkeeper
+VfL Bochum 1848,home,DFL-OBJ-00002Z,9,S. Zoller,False,Right Wing
+VfL Bochum 1848,home,DFL-OBJ-002G6G,2,Cristian Gamboa,False,Unknown
+VfL Bochum 1848,home,DFL-OBJ-00003J,21,M. Esser,False,Unknown
+VfL Bochum 1848,home,DFL-OBJ-000172,7,K. Stöger,True,Left Defensive Midfield
+VfL Bochum 1848,home,DFL-OBJ-0000YV,33,P. Hofmann,True,Striker
+VfL Bochum 1848,home,DFL-OBJ-0000XU,30,D. Heintz,True,Left Back
+VfL Bochum 1848,home,DFL-OBJ-000199,8,A. Losilla,True,Right Defensive Midfield
+VfL Bochum 1848,home,DFL-OBJ-0001WB,3,Danilo Soares,False,Unknown
+VfL Bochum 1848,home,DFL-OBJ-J014F7,20,I. Ordets,True,Right Center Back
+VfL Bochum 1848,home,DFL-OBJ-0025J8,17,G. Holtmann,False,Unknown
+VfL Bochum 1848,home,DFL-OBJ-J016C3,23,S. Janko,True,Right Back
+VfL Bochum 1848,home,DFL-OBJ-0027FG,11,T. Asano,True,Right Wing
+VfL Bochum 1848,home,DFL-OBJ-0027LO,10,P. Förster,True,Center Attacking Midfield
+VfL Bochum 1848,home,DFL-OBJ-0028NB,22,C. Antwi-Adjei,True,Left Wing
+VfL Bochum 1848,home,DFL-OBJ-0028D6,31,K. Schlotterbeck,False,Left Back
+VfL Bochum 1848,home,DFL-OBJ-002GAV,24,Vasileios Lampropoulos,False,Left Defensive Midfield
+VfL Bochum 1848,home,DFL-OBJ-J01AQV,29,M. Broschinski,False,Striker
+VfL Bochum 1848,home,DFL-OBJ-002GM0,4,E. Mašović,True,Left Center Back
+VfL Bochum 1848,home,DFL-OBJ-002G4G,6,P. Osterhage,False,Left Defensive Midfield
+Bayer 04 Leverkusen,away,DFL-OBJ-0026NY,1,L. Hrádecký,True,Goalkeeper
+Bayer 04 Leverkusen,away,DFL-OBJ-0001UP,4,Jonathan Tah,True,Right Center Back
+Bayer 04 Leverkusen,away,DFL-OBJ-J012D8,28,P. Pentz,False,Unknown
+Bayer 04 Leverkusen,away,DFL-OBJ-J013O2,9,S. Azmoun,True,Striker
+Bayer 04 Leverkusen,away,DFL-OBJ-0002LI,11,N. Amiri,True,Left Defensive Midfield
+Bayer 04 Leverkusen,away,DFL-OBJ-002G1P,22,D. Sinkgraven,False,Unknown
+Bayer 04 Leverkusen,away,DFL-OBJ-002GNP,24,Timothy Fosu-Mensah,False,Unknown
+Bayer 04 Leverkusen,away,DFL-OBJ-002G02,19,M. Diaby,True,Left Midfield
+Bayer 04 Leverkusen,away,DFL-OBJ-002G57,32,A. Azhil,False,Unknown
+Bayer 04 Leverkusen,away,DFL-OBJ-J01B8R,5,M. Bakker,True,Left Back
+Bayer 04 Leverkusen,away,DFL-OBJ-002GAR,12,Edmond Tapsoba,True,Left Center Back
+Bayer 04 Leverkusen,away,DFL-OBJ-002G8H,25,Exequiel Palacios,True,Right Defensive Midfield
+Bayer 04 Leverkusen,away,DFL-OBJ-002GFO,47,A. Aourir,False,Unknown
+Bayer 04 Leverkusen,away,DFL-OBJ-002GH4,43,L. Köhl,False,Unknown
+Bayer 04 Leverkusen,away,DFL-OBJ-002GOI,30,Jeremie Frimpong,True,Right Back
+Bayer 04 Leverkusen,away,DFL-OBJ-002GBK,27,Florian Wirtz,True,Center Attacking Midfield
+Bayer 04 Leverkusen,away,DFL-OBJ-J01G0J,23,A. Hložek,False,Unknown
+Bayer 04 Leverkusen,away,DFL-OBJ-J01K4C,18,Noah Mbamba,False,Right Defensive Midfield
+Bayer 04 Leverkusen,away,DFL-OBJ-J01KDN,21,A. Adli,True,Right Midfield
+Bayer 04 Leverkusen,away,DFL-OBJ-J01QRV,31,Madi Monamay,False,Unknown

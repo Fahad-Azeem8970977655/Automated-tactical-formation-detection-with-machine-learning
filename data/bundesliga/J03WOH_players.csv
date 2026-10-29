@@ -1,0 +1,40 @@
+team_name,ground,player_id,jersey,name,starting,position
+Fortuna Düsseldorf,home,DFL-OBJ-00008K,28,R. Hennings,False,Striker
+Fortuna Düsseldorf,home,DFL-OBJ-000170,1,R. Wolf,False,Unknown
+Fortuna Düsseldorf,home,DFL-OBJ-00003X,10,D. Ginczek,True,Striker
+Fortuna Düsseldorf,home,DFL-OBJ-0000NZ,25,Matthias Zimmermann,True,Right Back
+Fortuna Düsseldorf,home,DFL-OBJ-00006V,3,A. Hoffmann,True,Right Center Back
+Fortuna Düsseldorf,home,DFL-OBJ-0000F8,11,F. Klaus,True,Right Midfield
+Fortuna Düsseldorf,home,DFL-OBJ-J0130T,29,Jorrit Hendrix,True,Left Defensive Midfield
+Fortuna Düsseldorf,home,DFL-OBJ-00028V,31,M. Sobottka,True,Right Defensive Midfield
+Fortuna Düsseldorf,home,DFL-OBJ-J014UG,30,Jordy de Wijs,True,Left Center Back
+Fortuna Düsseldorf,home,DFL-OBJ-002FXT,9,Dawid Kownacki,True,Center Attacking Midfield
+Fortuna Düsseldorf,home,DFL-OBJ-0026RH,19,E. Iyoha,False,Center Attacking Midfield
+Fortuna Düsseldorf,home,DFL-OBJ-0028FW,33,F. Kastenmeier,True,Goalkeeper
+Fortuna Düsseldorf,home,DFL-OBJ-J01CP5,34,N. Gavory,True,Left Back
+Fortuna Düsseldorf,home,DFL-OBJ-002G5J,23,Shinta Appelkamp,False,Left Midfield
+Fortuna Düsseldorf,home,DFL-OBJ-002GMO,15,Tim Oberdorf,False,Unknown
+Fortuna Düsseldorf,home,DFL-OBJ-002GM1,7,Kristoffer Peterson,True,Left Midfield
+Fortuna Düsseldorf,home,DFL-OBJ-002GM9,5,C. Klarer,False,Right Center Back
+Fortuna Düsseldorf,home,DFL-OBJ-J01H9X,4,A. Tanaka,False,Unknown
+Fortuna Düsseldorf,home,DFL-OBJ-J01KJ5,8,M. Karbownik,False,Unknown
+Fortuna Düsseldorf,home,DFL-OBJ-J01L1F,14,Kwadwo Baah,False,Right Midfield
+SSV Jahn Regensburg,away,DFL-OBJ-0026UQ,20,L. Guwara,True,Left Back
+SSV Jahn Regensburg,away,DFL-OBJ-002651,5,Benedikt Gimber,True,Right Defensive Midfield
+SSV Jahn Regensburg,away,DFL-OBJ-0027XP,29,J. Mees,True,Left Midfield
+SSV Jahn Regensburg,away,DFL-OBJ-00268T,23,S. Breitkreuz,True,Right Center Back
+SSV Jahn Regensburg,away,DFL-OBJ-0028OR,9,P. Owusu,False,Left Forward
+SSV Jahn Regensburg,away,DFL-OBJ-0027B0,7,N. Shipnoski,True,Right Midfield
+SSV Jahn Regensburg,away,DFL-OBJ-002GNH,1,D. Stojanovic,True,Goalkeeper
+SSV Jahn Regensburg,away,DFL-OBJ-002850,32,A. Weidinger,False,Unknown
+SSV Jahn Regensburg,away,DFL-OBJ-0027VS,8,M. Thalhammer,True,Left Defensive Midfield
+SSV Jahn Regensburg,away,DFL-OBJ-0027P7,30,C. Viet,False,Right Midfield
+SSV Jahn Regensburg,away,DFL-OBJ-0028CD,26,C. Makridis,False,Right Midfield
+SSV Jahn Regensburg,away,DFL-OBJ-002GAB,18,A. Yildirim,True,Striker
+SSV Jahn Regensburg,away,DFL-OBJ-0028SW,11,K. Faber,True,Right Back
+SSV Jahn Regensburg,away,DFL-OBJ-002G2Y,19,Andreas Albers,True,Center Attacking Midfield
+SSV Jahn Regensburg,away,DFL-OBJ-J01CN9,27,L. Günther,False,Unknown
+SSV Jahn Regensburg,away,DFL-OBJ-002GDZ,10,K. Caliskaner,False,Striker
+SSV Jahn Regensburg,away,DFL-OBJ-002GEE,33,J. Elvedi,True,Left Center Back
+SSV Jahn Regensburg,away,DFL-OBJ-J01FDY,22,M. Gouras,False,Unknown
+SSV Jahn Regensburg,away,DFL-OBJ-002GFH,24,Scott Kennedy,False,Left Back
